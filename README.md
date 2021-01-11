@@ -20,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laurenchiang&show_icons=true&locale=en" alt="laurenchiang" /></p>
 
 
-![Visitor Count](https://profile-counter.glitch.me/laurenchiang/count.svg)
